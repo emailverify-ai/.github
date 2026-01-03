@@ -1,24 +1,25 @@
-# BillionVerify
+# EmailVerify
 
 <div align="center">
 
-  [![Website](https://img.shields.io/badge/Website-billionverify.com-0070f3)](https://billionverify.com)
+  [![Website](https://img.shields.io/badge/Website-emailverify.ai-0070f3)](https://emailverify.ai)
+  [![GitHub](https://img.shields.io/badge/GitHub-emailverify--ai-181717?logo=github)](https://github.com/emailverify-ai)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-  [![Email](https://img.shields.io/badge/Email-support%40billionverify.com-EA4335)](mailto:support@billionverify.com)
+  [![Email](https://img.shields.io/badge/Email-support%40emailverify.ai-EA4335)](mailto:support@emailverify.ai)
 
   **Professional Email Verification Service**
 
   High-performance email validation solution with 99.9% accuracy and real-time verification capabilities
 
-  [Website](https://billionverify.com) • [Features](https://billionverify.com/features) • [Quick Start](https://billionverify.com/docs/quickstart) • [Pricing](https://billionverify.com/pricing)
+  [Website](https://emailverify.ai) • [Features](https://emailverify.ai/features) • [Quick Start](https://emailverify.ai/docs/quickstart) • [Pricing](https://emailverify.ai/pricing)
 
 </div>
 
 ---
 
-## 📋 About BillionVerify
+## 📋 About EmailVerify
 
-BillionVerify is a modern, enterprise-grade email verification service platform that provides fast, accurate, and reliable email validation solutions. Built with cutting-edge technology and best practices, we ensure high performance and scalability for businesses of all sizes.
+EmailVerify is a modern, enterprise-grade email verification service platform that provides fast, accurate, and reliable email validation solutions. Built with cutting-edge technology and best practices, we ensure high performance and scalability for businesses of all sizes.
 
 ### Core Features
 
@@ -36,7 +37,7 @@ BillionVerify is a modern, enterprise-grade email verification service platform 
 
 ### For Users
 
-Visit [billionverify.com](https://billionverify.com) to:
+Visit [emailverify.ai](https://emailverify.ai) to:
 - Sign up for a free account
 - Verify your first emails
 - Integrate with our API
@@ -44,7 +45,7 @@ Visit [billionverify.com](https://billionverify.com) to:
 
 ### For Developers
 
-Our [API documentation](https://billionverify.com/docs) provides:
+Our [API documentation](https://emailverify.ai/docs) provides:
 - REST API reference
 - Code examples and SDKs
 - Integration guides
@@ -54,7 +55,7 @@ Our [API documentation](https://billionverify.com/docs) provides:
 
 ```bash
 # Verify a single email
-curl -X POST https://api.billionverify.com/v1/verify \
+curl -X POST https://api.emailverify.ai/v1/verify \
   -H "Authorization: Bearer YOUR_API_KEY" \
   -H "Content-Type: application/json" \
   -d '{
@@ -62,7 +63,7 @@ curl -X POST https://api.billionverify.com/v1/verify \
   }'
 ```
 
-For more details, visit [API Documentation](https://billionverify.com/docs/api)
+For more details, visit [API Documentation](https://emailverify.ai/docs/api)
 
 ---
 
@@ -78,25 +79,25 @@ For more details, visit [API Documentation](https://billionverify.com/docs/api)
 
 ## 📚 Resources
 
-- [Website](https://billionverify.com) - Official website
-- [Documentation](https://billionverify.com/docs) - Complete guides and API reference
-- [Pricing](https://billionverify.com/pricing) - Transparent, pay-as-you-go pricing
-- [Blog](https://billionverify.com/blog) - Industry insights and best practices
+- [Website](https://emailverify.ai) - Official website
+- [Documentation](https://emailverify.ai/docs) - Complete guides and API reference
+- [Pricing](https://emailverify.ai/pricing) - Transparent, pay-as-you-go pricing
+- [Blog](https://emailverify.ai/blog) - Industry insights and best practices
 
 ---
 
 ## 🤝 Support
 
-- 📧 **Email Support**: [support@billionverify.com](mailto:support@billionverify.com)
-- 💬 **Live Chat**: Available on [billionverify.com](https://billionverify.com)
-- 📖 **Documentation**: [billionverify.com/docs](https://billionverify.com/docs)
-- 🐛 **Report Issues**: [Contact Support](https://billionverify.com/support)
+- 📧 **Email Support**: [support@emailverify.ai](mailto:support@emailverify.ai)
+- 💬 **Live Chat**: Available on [emailverify.ai](https://emailverify.ai)
+- 📖 **Documentation**: [emailverify.ai/docs](https://emailverify.ai/docs)
+- 🐛 **Report Issues**: [Contact Support](https://emailverify.ai/support)
 
 ---
 
-## 🎯 Why Choose BillionVerify?
+## 🎯 Why Choose EmailVerify?
 
-| Feature | BillionVerify | Competitors |
+| Feature | EmailVerify | Competitors |
 |---------|---------------|-------------|
 | Accuracy | 99.9% | 95-98% |
 | Response Time | <50ms | 100-200ms |
@@ -115,7 +116,7 @@ This organization's projects are licensed under the MIT License.
 
 ## 🌟 Testimonials
 
-> "BillionVerify helped us reduce invalid emails by 95% and save on marketing spend." - Marketing Director, E-commerce Company
+> "EmailVerify helped us reduce invalid emails by 95% and save on marketing spend." - Marketing Director, E-commerce Company
 
 > "The easiest email verification API we've ever integrated. Their support team is fantastic!" - CTO, SaaS Startup
 
@@ -123,8 +124,8 @@ This organization's projects are licensed under the MIT License.
 
 <div align="center">
 
-**[Visit billionverify.com](https://billionverify.com)** | **[View Pricing](https://billionverify.com/pricing)** | **[Read Docs](https://billionverify.com/docs)**
+**[Visit emailverify.ai](https://emailverify.ai)** | **[View Pricing](https://emailverify.ai/pricing)** | **[Read Docs](https://emailverify.ai/docs)**
 
-Made with ❤️ by [BillionVerify Team](https://billionverify.com)
+Made with ❤️ by [EmailVerify Team](https://emailverify.ai)
 
 </div>
